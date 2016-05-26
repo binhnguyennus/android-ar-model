@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/binh_demo_ok.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,399 @@
+fileFormatVersion: 2
+guid: 47022a78282171d41a97090131a2bf12
+timeCreated: 1464240116
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: catB_geo
+    100002: Chuck_head_a_jnt
+    100004: Chuck_head_b_jnt
+    100006: Chuck_hip_jnt
+    100008: Chuck_lf_ankle_jnt
+    100010: Chuck_lf_ball_jnt
+    100012: Chuck_lf_clavicle_jnt
+    100014: Chuck_lf_elbow_jnt
+    100016: Chuck_lf_eye_jnt
+    100018: Chuck_lf_hand_jnt
+    100020: Chuck_lf_index_a_jnt
+    100022: Chuck_lf_index_b_jnt
+    100024: Chuck_lf_index_c_jnt
+    100026: Chuck_lf_index_d_jnt
+    100028: Chuck_lf_knee_jnt
+    100030: Chuck_lf_middle_a_jnt
+    100032: Chuck_lf_middle_b_jnt
+    100034: Chuck_lf_middle_c_jnt
+    100036: Chuck_lf_middle_d_jnt
+    100038: Chuck_lf_pinky_a_jnt
+    100040: Chuck_lf_pinky_b_jnt
+    100042: Chuck_lf_pinky_c_jnt
+    100044: Chuck_lf_pinky_d_jnt
+    100046: Chuck_lf_pinkyCup_jnt
+    100048: Chuck_lf_thumb_a_jnt
+    100050: Chuck_lf_thumb_b_jnt
+    100052: Chuck_lf_thumb_c_jnt
+    100054: Chuck_lf_thumb_d_jnt
+    100056: Chuck_lf_toe_jnt
+    100058: Chuck_lf_upArm_jnt
+    100060: Chuck_lf_upLeg_jnt
+    100062: Chuck_lf_wrist_jnt
+    100064: Chuck_neck_jnt
+    100066: Chuck_rt_ankle_jnt
+    100068: Chuck_rt_ball_jnt
+    100070: Chuck_rt_clavicle_jnt
+    100072: Chuck_rt_elbow_jnt
+    100074: Chuck_rt_eye_jnt
+    100076: Chuck_rt_hand_jnt
+    100078: Chuck_rt_index_a_jnt
+    100080: Chuck_rt_index_b_jnt
+    100082: Chuck_rt_index_c_jnt
+    100084: Chuck_rt_index_d_jnt
+    100086: Chuck_rt_knee_jnt
+    100088: Chuck_rt_middle_a_jnt
+    100090: Chuck_rt_middle_b_jnt
+    100092: Chuck_rt_middle_c_jnt
+    100094: Chuck_rt_middle_d_jnt
+    100096: Chuck_rt_pinky_a_jnt
+    100098: Chuck_rt_pinky_b_jnt
+    100100: Chuck_rt_pinky_c_jnt
+    100102: Chuck_rt_pinky_d_jnt
+    100104: Chuck_rt_pinkyCup_jnt
+    100106: Chuck_rt_thumb_a_jnt
+    100108: Chuck_rt_thumb_b_jnt
+    100110: Chuck_rt_thumb_c_jnt
+    100112: Chuck_rt_thumb_d_jnt
+    100114: Chuck_rt_toe_jnt
+    100116: Chuck_rt_upArm_jnt
+    100118: Chuck_rt_upLeg_jnt
+    100120: Chuck_rt_wrist_jnt
+    100122: Chuck_Skeleton_grp
+    100124: Chuck_spine_end_jnt
+    100126: Chuck_spine_hi_jnt
+    100128: Chuck_spine_low_jnt
+    100130: Chuck_spine_mid_jnt
+    100132: Chuck_weightSpine_b_jnt
+    100134: Chuck_weightSpine_c_jnt
+    100136: Chuck_weightSpine_d_jnt
+    100138: Chuck_weightSpine_e_jnt
+    100140: Chuck_weightSpine_f_jnt
+    100142: Chuck_weightSpine_g_jnt
+    100144: //RootNode
+    100146: weightSpine_grp
+    400000: catB_geo
+    400002: Chuck_head_a_jnt
+    400004: Chuck_head_b_jnt
+    400006: Chuck_hip_jnt
+    400008: Chuck_lf_ankle_jnt
+    400010: Chuck_lf_ball_jnt
+    400012: Chuck_lf_clavicle_jnt
+    400014: Chuck_lf_elbow_jnt
+    400016: Chuck_lf_eye_jnt
+    400018: Chuck_lf_hand_jnt
+    400020: Chuck_lf_index_a_jnt
+    400022: Chuck_lf_index_b_jnt
+    400024: Chuck_lf_index_c_jnt
+    400026: Chuck_lf_index_d_jnt
+    400028: Chuck_lf_knee_jnt
+    400030: Chuck_lf_middle_a_jnt
+    400032: Chuck_lf_middle_b_jnt
+    400034: Chuck_lf_middle_c_jnt
+    400036: Chuck_lf_middle_d_jnt
+    400038: Chuck_lf_pinky_a_jnt
+    400040: Chuck_lf_pinky_b_jnt
+    400042: Chuck_lf_pinky_c_jnt
+    400044: Chuck_lf_pinky_d_jnt
+    400046: Chuck_lf_pinkyCup_jnt
+    400048: Chuck_lf_thumb_a_jnt
+    400050: Chuck_lf_thumb_b_jnt
+    400052: Chuck_lf_thumb_c_jnt
+    400054: Chuck_lf_thumb_d_jnt
+    400056: Chuck_lf_toe_jnt
+    400058: Chuck_lf_upArm_jnt
+    400060: Chuck_lf_upLeg_jnt
+    400062: Chuck_lf_wrist_jnt
+    400064: Chuck_neck_jnt
+    400066: Chuck_rt_ankle_jnt
+    400068: Chuck_rt_ball_jnt
+    400070: Chuck_rt_clavicle_jnt
+    400072: Chuck_rt_elbow_jnt
+    400074: Chuck_rt_eye_jnt
+    400076: Chuck_rt_hand_jnt
+    400078: Chuck_rt_index_a_jnt
+    400080: Chuck_rt_index_b_jnt
+    400082: Chuck_rt_index_c_jnt
+    400084: Chuck_rt_index_d_jnt
+    400086: Chuck_rt_knee_jnt
+    400088: Chuck_rt_middle_a_jnt
+    400090: Chuck_rt_middle_b_jnt
+    400092: Chuck_rt_middle_c_jnt
+    400094: Chuck_rt_middle_d_jnt
+    400096: Chuck_rt_pinky_a_jnt
+    400098: Chuck_rt_pinky_b_jnt
+    400100: Chuck_rt_pinky_c_jnt
+    400102: Chuck_rt_pinky_d_jnt
+    400104: Chuck_rt_pinkyCup_jnt
+    400106: Chuck_rt_thumb_a_jnt
+    400108: Chuck_rt_thumb_b_jnt
+    400110: Chuck_rt_thumb_c_jnt
+    400112: Chuck_rt_thumb_d_jnt
+    400114: Chuck_rt_toe_jnt
+    400116: Chuck_rt_upArm_jnt
+    400118: Chuck_rt_upLeg_jnt
+    400120: Chuck_rt_wrist_jnt
+    400122: Chuck_Skeleton_grp
+    400124: Chuck_spine_end_jnt
+    400126: Chuck_spine_hi_jnt
+    400128: Chuck_spine_low_jnt
+    400130: Chuck_spine_mid_jnt
+    400132: Chuck_weightSpine_b_jnt
+    400134: Chuck_weightSpine_c_jnt
+    400136: Chuck_weightSpine_d_jnt
+    400138: Chuck_weightSpine_e_jnt
+    400140: Chuck_weightSpine_f_jnt
+    400142: Chuck_weightSpine_g_jnt
+    400144: //RootNode
+    400146: weightSpine_grp
+    4300000: catB_geo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: catB_geo
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 266
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: catB_geo
+        weight: 1
+      - path: Chuck_Skeleton_grp
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_lf_upLeg_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_lf_upLeg_jnt/Chuck_lf_knee_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_lf_upLeg_jnt/Chuck_lf_knee_jnt/Chuck_lf_ankle_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_lf_upLeg_jnt/Chuck_lf_knee_jnt/Chuck_lf_ankle_jnt/Chuck_lf_ball_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_lf_upLeg_jnt/Chuck_lf_knee_jnt/Chuck_lf_ankle_jnt/Chuck_lf_ball_jnt/Chuck_lf_toe_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_rt_upLeg_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_rt_upLeg_jnt/Chuck_rt_knee_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_rt_upLeg_jnt/Chuck_rt_knee_jnt/Chuck_rt_ankle_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_rt_upLeg_jnt/Chuck_rt_knee_jnt/Chuck_rt_ankle_jnt/Chuck_rt_ball_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_hip_jnt/Chuck_rt_upLeg_jnt/Chuck_rt_knee_jnt/Chuck_rt_ankle_jnt/Chuck_rt_ball_jnt/Chuck_rt_toe_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_index_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_index_a_jnt/Chuck_lf_index_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_index_a_jnt/Chuck_lf_index_b_jnt/Chuck_lf_index_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_index_a_jnt/Chuck_lf_index_b_jnt/Chuck_lf_index_c_jnt/Chuck_lf_index_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_middle_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_middle_a_jnt/Chuck_lf_middle_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_middle_a_jnt/Chuck_lf_middle_b_jnt/Chuck_lf_middle_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_middle_a_jnt/Chuck_lf_middle_b_jnt/Chuck_lf_middle_c_jnt/Chuck_lf_middle_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_pinkyCup_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_pinkyCup_jnt/Chuck_lf_pinky_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_pinkyCup_jnt/Chuck_lf_pinky_a_jnt/Chuck_lf_pinky_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_pinkyCup_jnt/Chuck_lf_pinky_a_jnt/Chuck_lf_pinky_b_jnt/Chuck_lf_pinky_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_pinkyCup_jnt/Chuck_lf_pinky_a_jnt/Chuck_lf_pinky_b_jnt/Chuck_lf_pinky_c_jnt/Chuck_lf_pinky_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_thumb_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_thumb_a_jnt/Chuck_lf_thumb_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_thumb_a_jnt/Chuck_lf_thumb_b_jnt/Chuck_lf_thumb_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_lf_clavicle_jnt/Chuck_lf_upArm_jnt/Chuck_lf_elbow_jnt/Chuck_lf_wrist_jnt/Chuck_lf_hand_jnt/Chuck_lf_thumb_a_jnt/Chuck_lf_thumb_b_jnt/Chuck_lf_thumb_c_jnt/Chuck_lf_thumb_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_neck_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_neck_jnt/Chuck_head_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_neck_jnt/Chuck_head_a_jnt/Chuck_head_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_neck_jnt/Chuck_head_a_jnt/Chuck_lf_eye_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_neck_jnt/Chuck_head_a_jnt/Chuck_rt_eye_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_index_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_index_a_jnt/Chuck_rt_index_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_index_a_jnt/Chuck_rt_index_b_jnt/Chuck_rt_index_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_index_a_jnt/Chuck_rt_index_b_jnt/Chuck_rt_index_c_jnt/Chuck_rt_index_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_middle_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_middle_a_jnt/Chuck_rt_middle_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_middle_a_jnt/Chuck_rt_middle_b_jnt/Chuck_rt_middle_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_middle_a_jnt/Chuck_rt_middle_b_jnt/Chuck_rt_middle_c_jnt/Chuck_rt_middle_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_pinkyCup_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_pinkyCup_jnt/Chuck_rt_pinky_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_pinkyCup_jnt/Chuck_rt_pinky_a_jnt/Chuck_rt_pinky_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_pinkyCup_jnt/Chuck_rt_pinky_a_jnt/Chuck_rt_pinky_b_jnt/Chuck_rt_pinky_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_pinkyCup_jnt/Chuck_rt_pinky_a_jnt/Chuck_rt_pinky_b_jnt/Chuck_rt_pinky_c_jnt/Chuck_rt_pinky_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_thumb_a_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_thumb_a_jnt/Chuck_rt_thumb_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_thumb_a_jnt/Chuck_rt_thumb_b_jnt/Chuck_rt_thumb_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/Chuck_spine_low_jnt/Chuck_spine_mid_jnt/Chuck_spine_hi_jnt/Chuck_spine_end_jnt/Chuck_rt_clavicle_jnt/Chuck_rt_upArm_jnt/Chuck_rt_elbow_jnt/Chuck_rt_wrist_jnt/Chuck_rt_hand_jnt/Chuck_rt_thumb_a_jnt/Chuck_rt_thumb_b_jnt/Chuck_rt_thumb_c_jnt/Chuck_rt_thumb_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp/Chuck_weightSpine_b_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp/Chuck_weightSpine_c_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp/Chuck_weightSpine_d_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp/Chuck_weightSpine_e_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp/Chuck_weightSpine_f_jnt
+        weight: 1
+      - path: Chuck_Skeleton_grp/weightSpine_grp/Chuck_weightSpine_g_jnt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
