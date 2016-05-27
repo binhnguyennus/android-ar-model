@@ -1,5 +1,4 @@
-# Virtual-Reality-Dev
-Virtual Reality Learning and Development
+# AR Dev Notes
 ------------
 
 Resource:
