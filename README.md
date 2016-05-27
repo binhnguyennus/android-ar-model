@@ -24,9 +24,13 @@ CS231M: Mobile Computer Vision (Stanford)
 
 http://web.stanford.edu/class/cs231m/syllabus.html
 
-COMS W4172 3D User Interfaces Syllabus and Assignments
+COMS W4172 3D User Interfaces Syllabus and Assignments:
 
 http://graphics.cs.columbia.edu/courses/csw4172/syllabus-16s.htm
+
+Yonsei Coursera:
+
+https://www.coursera.org/learn/iot-augmented-reality-technologies
 
 # Vuforia - Unity
 ------------
