@@ -1,7 +1,9 @@
 # AR Dev Notes
 ------------
 
-Resource:
+CSE 455 Washington (Prof. Shapiro)
+
+http://courses.cs.washington.edu/courses/cse455/14au/notes/index.html
 
 Google Cardboard:
 
