@@ -51,3 +51,8 @@ https://www.indiegogo.com/projects/flybi-first-drone-with-virtual-reality-goggle
 AuraVisor: The future of VR is wire free
 
 https://www.indiegogo.com/projects/auravisor-the-future-of-vr-is-wire-free-it-s-now#/
+
+# AR Toolkit
+------------
+
+http://artoolkit.org/
