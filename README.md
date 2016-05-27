@@ -32,6 +32,8 @@ Yonsei Coursera:
 
 https://www.coursera.org/learn/iot-augmented-reality-technologies
 
+https://www.coursera.org/learn/iot-augmented-reality-technologies/lecture/uUhzH/ar-technology
+
 # Vuforia - Unity
 ------------
 
