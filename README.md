@@ -1,6 +1,10 @@
 # AR Dev Notes
 ------------
 
+CMU 16-385 Computer Vision
+
+http://www.cs.cmu.edu/~16385/
+
 CSE 455 Washington (Prof. Shapiro)
 
 http://courses.cs.washington.edu/courses/cse455/14au/notes/index.html
