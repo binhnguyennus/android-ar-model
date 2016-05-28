@@ -1,13 +1,8 @@
 # AR Dev Notes
 ------------
+EE368/CS232 Digital Image Processing 
 
-CMU 16-385 Computer Vision
-
-http://www.cs.cmu.edu/~16385/
-
-CSE 455 Washington (Prof. Shapiro)
-
-http://courses.cs.washington.edu/courses/cse455/14au/notes/index.html
+http://web.stanford.edu/class/ee368/schedule.html
 
 Google Cardboard:
 
