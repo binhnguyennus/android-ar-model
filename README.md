@@ -4,6 +4,10 @@ EE368/CS232 Digital Image Processing
 
 http://web.stanford.edu/class/ee368/schedule.html
 
+CS7616 - Pattern Recognition
+
+http://www.cc.gatech.edu/~hic/CS7616/schedule.html
+
 Google Cardboard:
 
 https://vr.google.com/cardboard/developers/
