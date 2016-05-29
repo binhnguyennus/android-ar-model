@@ -4,6 +4,10 @@ EE368/CS232 Digital Image Processing
 
 http://web.stanford.edu/class/ee368/schedule.html
 
+CSE/EE 576 Computer Vision
+
+https://courses.cs.washington.edu/courses/cse576/15sp/
+
 CS7616 - Pattern Recognition
 
 http://www.cc.gatech.edu/~hic/CS7616/schedule.html
