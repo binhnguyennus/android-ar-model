@@ -12,6 +12,10 @@ CS7616 - Pattern Recognition
 
 http://www.cc.gatech.edu/~hic/CS7616/schedule.html
 
+EECS 432 Advanced Computer Vision
+
+http://www.ece.northwestern.edu/~yingwu/teaching/EECS432/EECS432_hand.html
+
 Google Cardboard:
 
 https://vr.google.com/cardboard/developers/
